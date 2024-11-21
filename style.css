@@ -1,0 +1,41 @@
+.bodybox{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    background-color: rgb(152, 189, 189);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.box1{
+    margin: 20px;
+    height: 270px;
+    width: 220px;
+    background-color: rgb(250, 249, 247);
+    border: 20px solid white;
+    box-shadow: 8px 8px 5px gray;
+}
+.box1 img{
+    height: 200px;
+    width: 220px;
+    margin: 0px;
+    overflow: hidden;   
+}
+.desc {
+    padding: 15px;
+    text-align: center;
+  }
+header h1{
+    margin: 0%;
+    padding: 0%;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(240, 236, 236);
+}
+footer p{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    background-color: rgb(240, 236, 236);
+}
