@@ -11,7 +11,7 @@
     </header>
     <div class="container">
         <div class="box1">
-            <img src="C:\Users\pc\Desktop\Shivani\image1.jpg" alt="Image is missing">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthjszXO0JPO7Dj_KV8pmkM6vC1Kp8wBRfWQ&s" alt="Image is missing">
             <div class="desc">Food is not just nourishment; it's a symphony of flavors dancing on your tongue.</div>
         </div>
         <div class="box1">
