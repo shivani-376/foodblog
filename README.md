@@ -15,7 +15,7 @@
             <div class="desc">Food is not just nourishment; it's a symphony of flavors dancing on your tongue.</div>
         </div>
         <div class="box1">
-            <img src="C:\Users\pc\Desktop\Shivani\image2.jpg" alt="Image is missing">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKND-rSFzW_nksr5WiDrm_mNuiiIjN-xIotw&s" alt="Image is missing">
             <div class="desc">In every bite, a story unfolds, a taste of tradition, a hint of adventure.</div>
         </div>
         <div class="box1">
